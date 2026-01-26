@@ -1,11 +1,9 @@
 ## Hi there, I'm Anuda 👋
 
-I'm mostly a front-end developer and a high school student eager to learn about other technologies and gain experience
-in work environments.
+A fullstack developer who's working and studying to be capable of doing even more.
 
-- Studied several languages at [Alura](http://www.alura.com.br/).<br>
-- 📖 I'm currently studying at **Cefet-RJ**.
-- 🔭 Currently working on [cefet-game](https://github.com/pedroanuda/cefet-game).
+- 🎧 Studied several languages at [Alura](http://www.alura.com.br/).<br>
+- 📖 Studied Computing at **CEFET-RJ**.
 
 ### Languages and Tools
 
