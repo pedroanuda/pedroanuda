@@ -2,8 +2,9 @@
 
 A fullstack developer who's working and studying to be capable of doing even more.
 
+- 🧑🏻‍💻 Currently studying Software Engineering at **FIAP**.
 - 🎧 Studied several languages at [Alura](http://www.alura.com.br/).<br>
-- 📖 Studied Computing at **CEFET-RJ**.
+- 📖 Studied Informatics at **CEFET-RJ**.
 
 ### Languages and Tools
 
